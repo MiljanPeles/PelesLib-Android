@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiljanLibraryTest</string>
+
+    <string name="string_hello">Hello World default</string>
+</resources>

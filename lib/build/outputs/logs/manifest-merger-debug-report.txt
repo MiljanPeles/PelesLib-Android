@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:2:5-34
+		INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:1:1-10:12
+		INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:1:1-10:12
+		INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:4:5-8:19
+activity#com.miljanpeles.lib.permissions.PPermissionsActivity
+ADDED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:6:9-7:74
+	android:theme
+		ADDED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:7:13-72
+	android:name
+		ADDED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml:6:19-67
+uses-sdk
+INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miljan\AndroidStudioProjects\MiljanLibraryTest\lib\src\main\AndroidManifest.xml
